@@ -1,0 +1,17 @@
+{
+  "name": "extract-xd-comments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Samuel Mereau",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-html-parser": "^6.0.0",
+    "puppeteer": "^17.1.2"
+  }
+}
